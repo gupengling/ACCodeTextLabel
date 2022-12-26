@@ -1,0 +1,26 @@
+{
+  "name": "ACCodeTextLabel",
+  "version": "0.0.1",
+  "summary": "验证码文本组件.",
+  "description": "Finally, don't worry about the indent, CocoaPods strips it!",
+  "homepage": "http://github.com/ACCodeTextLabel",
+  "license": "MIT",
+  "authors": {
+    "gupengling": "aigupengling@163.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "http://github.com/ACCodeTextLabel.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m,swift}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "requires_arc": true,
+  "swift_version": "5.0"
+}

@@ -1,0 +1,23 @@
+PODS:
+  - ACCodeTextLabel (0.0.1)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - ACCodeTextLabel (from `../`)
+  - Masonry
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  ACCodeTextLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ACCodeTextLabel: b208208b817b0ce6fb2de4dcb7f59622379e6dec
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: dd8d958132f6631d815c664bc5cf0de1cc815417
+
+COCOAPODS: 1.11.2

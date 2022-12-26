@@ -1,0 +1,6 @@
+framework module ACCodeTextLabel {
+  umbrella header "ACCodeTextLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
